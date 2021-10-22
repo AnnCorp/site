@@ -207,12 +207,12 @@ metadata_tabs: []
 news:
   category_links: false
 non_global_metadata: indicator.national_metadata
-remote_data_prefix: 'https://github.com/AnnCorp/data'
+remote_data_prefix: 'https://anncorp.github.io/data/'
 reporting_status:
   title: status.reporting_status
   description: status.description
   disaggregation_tabs: false
-repository_url_data: 'https://github.com/open-sdg/open-sdg-data-starter'
+repository_url_data: 'https://github.com/AnnCorp/data'
 repository_url_site: 'https://github.com/AnnCorp/site'
 search_index_boost: []
 search_index_extra_fields: []
